@@ -12,8 +12,5 @@
     <mapping class="database.Student"/>
     <mapping class="database.Sports"/>
     <mapping class="database.Student"/>
-
-    <!-- DB schema will be updated if needed -->
-    <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->
   </session-factory>
 </hibernate-configuration>
